@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <p>this is my github page</p>
+  <p>you can watch as i confusedly try to learn how to code i guess</p>
+</div>
 
 <!--
 **novacobalt/novacobalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
